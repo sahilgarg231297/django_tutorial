@@ -10,3 +10,4 @@ a). models, database connection, register model
 >>> t.save()
 >>> print(Topic.objects.all())
 b). create super users 
+c). install faker
